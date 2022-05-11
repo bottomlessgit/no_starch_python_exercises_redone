@@ -1,6 +1,6 @@
 
 # no_starch_python_exercises_redone
-Selected Completed No Starch Python Textbook Exercises that I redid for practice
+Selected Completed No Starch Python Textbook Exercises that I redid for practice.  
 ***I have another repository of exercises from the same textbook, most of which are the same exercises. 
 All problems were redone from scratch, and I added chapter 14 exercises. Thus the readme for this repository is essentially identical 
 to that of the no_starch_python_exercises repository***
