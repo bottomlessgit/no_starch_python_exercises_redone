@@ -1,0 +1,7 @@
+In python you can assign values to variables that you can manipulate with functions and operations on those variables.
+In python you can use boolean logic to make programs do things only on the condition that some statement is true.
+In python you can use for-loops to cycle through a container of objects and do some operation for each one.
+In python you can use while loops to keep doing a command until some condition is met.
+In python you can create functions that do operations, optionally with given input, and can repeatedly use them after defining them a signle time.
+In python you can create your own custom compound data types, called classes.
+In python you can open and write to files that can contain information prior to the program's running and retain information after a program's function ceases.
